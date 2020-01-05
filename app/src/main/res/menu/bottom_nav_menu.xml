@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id_navigation_account"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="Account" />
+
+    <item
+        android:id="@+id/id_navigation_library"
+        android:icon="@drawable/ic_bookmark_black_24dp"
+        android:title="Library" />
+
+    <item
+        android:id="@+id/id_navigation_marketplace"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        android:title="Marketplace" />
+
+</menu>
